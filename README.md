@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Lux-Sakura
+- 👋 Hi, I’m Sakura!
 - 👀 I’m interested in helping and collaborating on CyberCode Online with various improvements.
 - 📫 How to reach me: discord - lux#2772
 
