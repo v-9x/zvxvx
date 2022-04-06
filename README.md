@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Sakura!
-- 👀 I’m interested in helping and collaborating on CyberCode Online with various improvements.
+- 👋 Hi, I’m Lux Sakura!
+- 👀 I’m interested in programming!
 - 📫 How to reach me: discord - lux#2772
 
 <!---
