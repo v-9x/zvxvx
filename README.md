@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Lux Sakura!
-- 👀 I’m interested in programming!
+- 👀 Currently working towards making my first game!
 - 📫 How to reach me: discord - lux#2772
 
 <!---
