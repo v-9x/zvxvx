@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Lux Sakura!
-- 👀 Currently working towards making my first game!
+- 👀 Currently working towards making my first game w/ Team Hanabi!
 - 📫 How to reach me: discord - lux#2772
 
 <!---
