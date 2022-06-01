@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Lux Sakura!
-- 👀 Game Director for https://palesakura.com!
+- 👀 Currently learning full stack development.
 - 📫 How to reach me: discord - lux#2772
 
 <!---
