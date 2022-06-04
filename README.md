@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Lux Sakura!
+- 👋 Hi, I’m Lux Graves.
 - 👀 Currently learning full stack development.
 - 📫 How to reach me: discord - lux#2772
 
