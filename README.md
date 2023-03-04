@@ -1,2 +1,2 @@
 - 👋 Hi, I’m Greg.
-- 👀 Currently learning full stack development through Odin Project and other sources to supplement the learning process.
+- 👀 Currently learning full stack development through a variety of resources. Actively looking for front end projects to collab on!
