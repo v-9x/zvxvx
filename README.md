@@ -1,2 +1,2 @@
-- 👋 Hi, I’m Greg.
-- 👀 Currently learning full stack development through a variety of resources. Actively looking for front end projects to collab on!
+- username origin: 咲き残る [saki-no-koru] n. japanese word to mean late bloomer. as a person in their mid-30's learning to become a developer, i found this to be apropos.
+- Currently learning full stack development through a variety of resources. Also, looking for projects on github to test my abilities.
