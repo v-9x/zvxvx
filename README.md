@@ -1,2 +1,2 @@
-- username origin: 咲き残る [saki-no-koru] n. Japanese word to mean late bloomer. As a person in their mid-30's learning to become a developer, i found this to be apropos.
+- username origin: 咲き残る [saki-no-koru] n. Japanese for late bloomer. As a person in their mid-30's learning to become a developer, i found this to be apropos.
 - Currently learning full stack development through a variety of resources. Also, looking for projects on github to test my abilities.
