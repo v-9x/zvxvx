@@ -1,1 +1,2 @@
 - Currently learning full stack development through a variety of resources. Also, looking for projects on github to test my abilities.
+- Check my website out for a ton of code from coding challenges I've done: (self/division)[https://selfdi.vision]
