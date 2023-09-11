@@ -1,3 +1,4 @@
 # Welcome...
 - I am currently learning full stack development through a variety of resources
-- Check out my very first project: [audioo](https://audioo.org)
+- My first project: [audioo](https://audioo.org)
+- This is a website I made for a business: [Haole Handyman](https://haolehandyman.com)
