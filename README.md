@@ -1,3 +1,2 @@
 # Welcome...
-- I am currently learning full stack development.
-- Learning Rust and WebAssembly on the side.
+- I am currently learning full stack development through Galvanize.
