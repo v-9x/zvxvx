@@ -1,8 +1,8 @@
 ## Full-Stack Developer Student @ Galvanize
 
 -   I'm based in Honolulu
--   I'm currently working on [null message board](http://nullmb.onrender.com/)
--   I'm learning Typescript, Node, Express, postgreSQL, SQL
+-   My first full-stack project (takes a moment to spin up due to free-tier): [null message board](http://nullmb.onrender.com/)
+-   I'm currently learning React / Typescript
 -   I'm open to collaborating on open source projects
 
 ### Skills
