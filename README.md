@@ -7,5 +7,5 @@
 [null message board](https://github.com/gnprwx/nullmb)
 
 ### Skills
-- Current: HTML, CSS, JavaScript, Node, Express, Docker, PostgreSQL, Webpack, Git, Figma
-- In progress: React, Astro, Vite, Typescript, C
+- Current: HTML, CSS, JavaScript, Node, Express, Docker, PostgreSQL, Webpack, Git, Vite
+- In progress: React, Astro, Typescript, Figma, C
