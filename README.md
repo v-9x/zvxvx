@@ -10,5 +10,5 @@
 [Null Message Board](https://nullmb.onrender.com)
 - (HTML, CSS, JS)
 ### Skills
-- Current: HTML, CSS, JavaScript, Node, Express, Docker, PostgreSQL, Webpack, Git, Vite
-- In progress: React, Astro, Typescript, Figma, C
+- Current: React, Astro, JavaScript, HTML, TailwindCSS, CSS, Node, Express, Docker, PostgreSQL, Webpack, Git, Vite
+- In progress: Typescript, Figma, C
