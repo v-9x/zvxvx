@@ -5,7 +5,7 @@
 
 ### Completed Projects
 [Haole Handyman](https://haolehandyman.com)
-- (React, TailwindCSS, Vite)
+- (React,Typescript, TailwindCSS, Vite)
   
 [Null Message Board](https://nullmb.onrender.com)
 - (HTML, CSS, JS)
