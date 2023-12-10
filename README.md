@@ -5,4 +5,3 @@
 
 ### Skills
 - Current: React, Astro, Typescript, JavaScript, HTML, TailwindCSS, CSS, Node, Express, Docker, PostgreSQL, Webpack, Git, Vite
-- In progress: Figma, C
