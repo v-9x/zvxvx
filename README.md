@@ -4,4 +4,4 @@
 [pappas.sh](https://pappas.sh)
 
 ### Skills
-React, Astro, Typescript, JavaScript, HTML, TailwindCSS, CSS, Node, Express, Docker, PostgreSQL, Webpack, Git, Vite
+React, Astro, Typescript, JavaScript, HTML, TailwindCSS, CSS, Node, Express, Docker, PostgreSQL, Git, Vite
