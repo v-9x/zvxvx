@@ -1,5 +1,5 @@
 ### Websites
-- [vagabond.sh](https://vagabond.sh) - My own web/database server ran off of a $4/month droplet.
+- [vagabond.sh](https://vagabond.sh) - My own web/database server running off of a $4/month droplet.
 - [pappas.sh](https://pappas.sh) - Blog/Portfolio
 - [audioo.org](https://audioo.org) - Web app that loops a variety of sounds to focus or sleep to.
 
